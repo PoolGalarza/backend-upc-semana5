@@ -1,0 +1,12 @@
+{
+  "name": "backend-upc-semana5",
+  "version": "1.0.0",
+  "description": "Laboratorio Semana 5 - Arquitectura de Aplicaciones Web - UPC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
